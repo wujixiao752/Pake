@@ -12,10 +12,10 @@ on:
           - 'macos-latest'
           - 'ubuntu-20.04'
       url:
-        description: '[URL]'
+        description: 'https://weread.qq.com/'
         required: true
       name:
-        description: '[Name]'
+        description: 'weread'
         required: true
       icon:
         description: '[Icon, Optional]'
